@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-hbiqbu.indocuan-pro.cfd/sitemap.xml
